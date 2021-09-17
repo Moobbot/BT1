@@ -1,0 +1,37 @@
+@media only screen and (max-width: 64em) {
+    .container {
+        width: 100%;
+    }
+}
+
+
+/*Tablet: with >= 740px  width < 1024px*/
+
+@media only screen and (min-width: 46.25em) and (max-width: 64em) {}
+
+
+/* Mobile: width < 740px */
+
+@media only screen and (max-width: 46.1875em) {
+    /* header */
+    .nav {
+        display: block;
+    }
+    .nav-item a {
+        font-size: 1em;
+    }
+    .logo {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+
+/* Iphone 5: width: < = 320px */
+
+@media only screen and (max-width: 20em) {
+    .nav-item a {
+        padding: 1em;
+        font-size: 0.8em;
+    }
+}
