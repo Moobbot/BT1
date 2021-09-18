@@ -1,5 +1,5 @@
 /* 
-    Author: Vijay Thapa;
+    Author: ThienTinhTam;
 */
 
 
@@ -43,7 +43,7 @@ a:hover {
 .btn {
     padding: 1%;
     font-size: 1rem;
-    border: 1px solid hotpink;
+    border: none;
     border-radius: 5px;
 }
 
@@ -86,6 +86,13 @@ h1 {
     bottom: 48px;
 }
 
+fieldset {
+    border: 1px solid #fff;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+}
+
 .col {}
 
 
@@ -97,10 +104,10 @@ h1 {
 /* CSS for Header */
 
 #header {
-    /* position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
-    right: 0; */
+    right: 0;
     background-color: #fff;
     height: 18%;
 }
@@ -134,12 +141,13 @@ h1 {
     padding: 7% 0;
 }
 
-.content-header input[type="text"] {
+.input-search {
     width: 50%;
     padding: 1%;
     font-size: 1rem;
     border: none;
     border-radius: 5px;
+    margin-right: 2%;
 }
 
 
@@ -163,6 +171,9 @@ h1 {
 
 /* CSS for food-menu*/
 
+
+/* #region */
+
 .food-menu {
     background-color: #ececec;
     padding: 4% 0;
@@ -176,7 +187,7 @@ h1 {
 
 .food-menu-box {
     width: 40%;
-    padding: 2%;
+    padding: 1%;
     background-color: #fff;
     border-radius: 15px;
 }
@@ -200,11 +211,57 @@ h1 {
     margin-left: 8%;
 }
 
-.food-detail {
-    opacity: 0.6;
+.food-price {
+    font-size: 1.2rem;
+    margin: 2% 0;
 }
+
+.food-detail {
+    font-size: 1rem;
+    color: #747d8c;
+    margin-bottom: 2%;
+}
+
+
+/* #endregion */
 
 
 /* CSS for footer*/
 
+
+/* #region */
+
 #footer {}
+
+.footer a {
+    padding: 0 2%;
+}
+
+.footer-p {
+    margin-bottom: 1%;
+}
+
+
+/* #endregion */
+
+
+/* CSS for Order */
+
+.order {
+    width: 50%;
+    margin: auto;
+}
+
+.input-responsive {
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    font-size: 1rem;
+    border: none;
+}
+
+.order-label {
+    margin-bottom: 1%;
+    font-weight: bold;
+}
