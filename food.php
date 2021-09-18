@@ -53,7 +53,7 @@
                                 <h3>Food Title</h3>
                                 <h3 class="food-price">$2.3</h3>
                                 <p class="food-detail">Made with Italian Sauce, Chicken, and organice vegetables</p>
-                                <a class="btn btn-primary" href="">Order Now</a>
+                                <a class="btn btn-primary" href="order.php">Order Now</a>
                             </div>
                         </div>
 
@@ -65,7 +65,7 @@
                                 <h3>Nice Burger</h3>
                                 <h3 class="food-price">$2.3</h3>
                                 <p class="food-detail">Made with Italian Sauce, Chicken, and organice vegetables</p>
-                                <a class="btn btn-primary" href="">Order Now</a>
+                                <a class="btn btn-primary" href="order.php">Order Now</a>
                                 </p>
                             </div>
                         </div>
@@ -79,7 +79,7 @@
                                 <h3>Nice Burger</h3>
                                 <h3 class="food-price">$2.3</h3>
                                 <p class="food-detail">Made with Italian Sauce, Chicken, and organice vegetables</p>
-                                <a class="btn btn-primary" href="">Order Now</a>
+                                <a class="btn btn-primary" href="order.php">Order Now</a>
                             </div>
                         </div>
 
@@ -91,7 +91,7 @@
                                 <h3>Food Title</h3>
                                 <h3 class="food-price">$2.3</h3>
                                 <p class="food-detail">Made with Italian Sauce, Chicken, and organice vegetables</p>
-                                <a class="btn btn-primary" href="">Order Now</a>
+                                <a class="btn btn-primary" href="order.php">Order Now</a>
                                 </p>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                                 <h3>Food Title</h3>
                                 <h3 class="food-price">$2.3</h3>
                                 <p class="food-detail">Made with Italian Sauce, Chicken, and organice vegetables</p>
-                                <a class="btn btn-primary" href="">Order Now</a>
+                                <a class="btn btn-primary" href="order.php">Order Now</a>
                             </div>
                         </div>
 
@@ -117,7 +117,7 @@
                                 <h3>Chicken Steam Momo</h3>
                                 <h3 class="food-price">$2.3</h3>
                                 <p class="food-detail">Made with Italian Sauce, Chicken, and organice vegetables</p>
-                                <a class="btn btn-primary" href="">Order Now</a>
+                                <a class="btn btn-primary" href="order.php">Order Now</a>
                                 </p>
                             </div>
                         </div>
