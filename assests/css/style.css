@@ -164,7 +164,7 @@ h1 {
 /* CSS for food-menu*/
 
 .food-menu {
-    background-color: #ccc;
+    background-color: #ececec;
     padding: 4% 0;
 }
 
@@ -179,6 +179,12 @@ h1 {
     padding: 2%;
     background-color: #fff;
     border-radius: 15px;
+}
+
+.food-menu-box::after {
+    content: "";
+    display: block;
+    clear: both;
 }
 
 .food-menu-img {

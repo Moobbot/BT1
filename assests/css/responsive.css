@@ -24,6 +24,25 @@
         width: 100%;
         text-align: center;
     }
+    /* content-foods */
+    .img-foods.flex-center {
+        display: block;
+    }
+    .img-foods a {
+        width: 100%;
+        margin: 0 2%;
+    }
+    .float-text {
+        bottom: 100px;
+        font-size: 1.5em;
+    }
+    .row {
+        display: block;
+    }
+    .food-menu-box {
+        width: 100%;
+        margin-bottom: 4%;
+    }
 }
 
 

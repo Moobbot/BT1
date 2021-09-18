@@ -24,11 +24,11 @@
                 </div>
                 <div class="nav-item flex-center">
                     <ul>
-                        <li><a href="#">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
 
                         <li><a href="#">Categories</a></li>
 
-                        <li><a href="food.php">Foods</a></li>
+                        <li><a href="#">Foods</a></li>
 
                         <li><a href="#">Contact</a></li>
                     </ul>
@@ -40,34 +40,6 @@
             <div class="content-header flex-center">
                 <input type="text" name="search" placeholder="Search for Food..." requireds>
                 <input class="btn btn-primary" type="submit" name="submit" value="Search">
-            </div>
-            <div class="content-foods">
-                <div class="container">
-                    <h1 class="text-center">Explore Foods</h1>
-
-                    <div class="img-foods flex-center">
-                        <a href="#" class="category">
-                            <div class="box">
-                                <img src="assests/img/pizza.jpg" alt="Pizza" class="img-responsive img-curve">
-                                <h3 class="flex-center float-text text-white">Pizza</h3>
-                            </div>
-                        </a>
-
-                        <a href="#" class="category">
-                            <div class="box">
-                                <img src="assests/img/burger.jpg" alt="Pizza" class="img-responsive img-curve">
-                                <h3 class="flex-center float-text text-white">Burger</h3>
-                            </div>
-                        </a>
-
-                        <a href="#" class="category">
-                            <div class="box">
-                                <img src="assests/img/momo.jpg" alt="Pizza" class="img-responsive img-curve">
-                                <h3 class="flex-center float-text text-white">Momo</h3>
-                            </div>
-                        </a>
-                    </div>
-                </div>
             </div>
             <div class="food-menu">
                 <div class="container">
@@ -153,15 +125,15 @@
                     <a class="flex-center" href="#">See All Foods</a>
                 </div>
             </div>
-        </div>
-        <div class="footer">
-            <div class="container flex-center">
-                <a href="#"><img src="./assests/img/facebook.png" alt=""></a>
-                <a href="#"><img src="./assests/img/instagram.png" alt=""></a>
-                <a href="#"><img src="./assests/img/twitter.png" alt=""></a>
-            </div>
-            <div class="container flex-center">
-                All rights reserved. Designed By<a href="https://www.facebook.com/profile.php?id=100022459923271"> NDT</a>
+            <div class="footer">
+                <div class="container flex-center">
+                    <a href="#"><img src="./assests/img/facebook.png" alt=""></a>
+                    <a href="#"><img src="./assests/img/instagram.png" alt=""></a>
+                    <a href="#"><img src="./assests/img/twitter.png" alt=""></a>
+                </div>
+                <div class="container flex-center">
+                    All rights reserved. Designed By<a href="https://www.facebook.com/profile.php?id=100022459923271"> NDT</a>
+                </div>
             </div>
         </div>
     </div>
