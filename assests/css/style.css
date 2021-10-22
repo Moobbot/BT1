@@ -42,7 +42,6 @@ a:hover {
 
 .btn {
     padding: 1%;
-    font-size: 1rem;
     border: none;
     border-radius: 5px;
 }
@@ -252,6 +251,11 @@ fieldset {
     margin: auto;
 }
 
+.order-label {
+    margin-bottom: 1%;
+    font-weight: bold;
+}
+
 .input-responsive {
     width: 96%;
     padding: 1%;
@@ -259,9 +263,4 @@ fieldset {
     border-radius: 5px;
     font-size: 1rem;
     border: none;
-}
-
-.order-label {
-    margin-bottom: 1%;
-    font-weight: bold;
 }

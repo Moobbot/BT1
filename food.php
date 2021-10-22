@@ -39,6 +39,7 @@
         <div id="body">
             <div class="content-header flex-center">
                 <input type="text" name="search" placeholder="Search for Food..." requireds class="input-search">
+
                 <input class="btn btn-primary" type="submit" name="submit" value="Search">
             </div>
             <div class="food-menu">

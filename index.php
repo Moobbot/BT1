@@ -56,14 +56,14 @@
 
                         <a href="#" class="category">
                             <div class="box">
-                                <img src="assests/img/burger.jpg" alt="Pizza" class="img-responsive img-curve">
+                                <img src="assests/img/burger.jpg" alt="Burger" class="img-responsive img-curve">
                                 <h3 class="flex-center float-text text-white">Burger</h3>
                             </div>
                         </a>
 
                         <a href="#" class="category">
                             <div class="box">
-                                <img src="assests/img/momo.jpg" alt="Pizza" class="img-responsive img-curve">
+                                <img src="assests/img/momo.jpg" alt="Momo" class="img-responsive img-curve">
                                 <h3 class="flex-center float-text text-white">Momo</h3>
                             </div>
                         </a>
@@ -163,7 +163,8 @@
             </div>
             <div class="container text-center">
                 <p class="footer-p">
-                    All rights reserved. Designed By<a href="https://www.facebook.com/profile.php?id=100022459923271"> NDT</a>
+                    All rights reserved. Designed By<a href="https://www.facebook.com/profile.php?id=100022459923271">
+                        NDT</a>
                 </p>
             </div>
         </div>
